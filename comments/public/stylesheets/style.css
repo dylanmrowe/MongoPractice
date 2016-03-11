@@ -1,0 +1,26 @@
+body {
+  
+  width: 100%;
+
+  text-align: center;
+
+  background-image: url("http://www.philippeblanchard.com/files/gimgs/48_img0884.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+#everything{
+  width: 38%;
+  background-color: rgba(255,255,255,0.6);
+  border: 3px solid black;
+  margin:auto;
+border-radius: 5px;
+}
+
+a {
+  color: #00B7FF;
+}

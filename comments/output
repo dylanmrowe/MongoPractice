@@ -1,0 +1,509 @@
+nohup: ignoring input
+Connected
+[0mGET / [36m304 [0m5.723 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m2.197 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.934 ms - -[0m
+POST comment route
+{ Name: 'Dylan\'s Ghost',
+  Comment: 'I AM SO DONE WITH THIS THING' }
+{ _id: 56e24f425a03918262390bd0,
+  Comment: 'I AM SO DONE WITH THIS THING',
+  Name: 'Dylan\'s Ghost' }
+{ _id: 56e24f425a03918262390bd0,
+  Comment: 'I AM SO DONE WITH THIS THING',
+  Name: 'Dylan\'s Ghost',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m37.645 ms - 2[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'asdf',
+    Name: 'asdf',
+    _id: 56d87b0283fea276098d12b8 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3132723e9ae5dcd2aae },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3162723e9ae5dcd2aaf },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab0 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab1 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab2 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab3 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab4 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3192723e9ae5dcd2ab5 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3192723e9ae5dcd2ab6 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a31a2723e9ae5dcd2ab7 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a31a2723e9ae5dcd2ab8 },
+  { __v: 0,
+    Comment: 'asdf',
+    Name: 'asdf',
+    _id: 56e1aa1cc0edf3065ee3a706 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1aa9fb4dc81205e2e6e68 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1aaa1b4dc81205e2e6e69 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1ab56ca4527435eed476f },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'Dylan',
+    _id: 56e2115a48cd072b616e95d4 },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'Dylan',
+    _id: 56e2116a48cd072b616e95d5 },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'agh',
+    _id: 56e2116f48cd072b616e95d6 },
+  { __v: 0,
+    Comment: '42',
+    Name: 'Dylan',
+    _id: 56e243e2ebb0c93362ee417d },
+  { __v: 0,
+    Comment: 'IT\'S 42',
+    Name: 'Dylan',
+    _id: 56e244f1ebb0c93362ee417e },
+  { __v: 0,
+    Comment: 'Hey It\'s actually centered',
+    Name: 'Dylan',
+    _id: 56e245d6ebb0c93362ee417f },
+  { __v: 0, Comment: '', Name: '', _id: 56e245ffebb0c93362ee4180 },
+  { __v: 0,
+    Comment: 'Now it\'s blue',
+    Name: 'Dylan Rowe',
+    _id: 56e24798ebb0c93362ee4181 },
+  { __v: 0,
+    Comment: 'Are bullets gone?',
+    Name: 'Dylan Rowe',
+    _id: 56e24c56ebb0c93362ee4182 },
+  { __v: 0,
+    Comment: 'I AM SO DONE WITH THIS THING',
+    Name: 'Dylan\'s Ghost',
+    _id: 56e24f425a03918262390bd0 } ]
+[0mGET /comment [32m200 [0m19.544 ms - 2012[0m
+[0mGET / [36m304 [0m0.418 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.321 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.521 ms - 271[0m
+[0mGET / [36m304 [0m0.397 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.754 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.977 ms - 271[0m
+[0mGET / [36m304 [0m0.373 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m1.038 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.644 ms - 285[0m
+POST comment route
+{ Name: 'Sigh', Comment: 'Sigh' }
+{ _id: 56e253c55a03918262390bd1, Comment: 'Sigh', Name: 'Sigh' }
+{ _id: 56e253c55a03918262390bd1,
+  Comment: 'Sigh',
+  Name: 'Sigh',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m4.697 ms - 2[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'asdf',
+    Name: 'asdf',
+    _id: 56d87b0283fea276098d12b8 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3132723e9ae5dcd2aae },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3162723e9ae5dcd2aaf },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab0 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab1 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab2 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab3 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab4 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3192723e9ae5dcd2ab5 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3192723e9ae5dcd2ab6 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a31a2723e9ae5dcd2ab7 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a31a2723e9ae5dcd2ab8 },
+  { __v: 0,
+    Comment: 'asdf',
+    Name: 'asdf',
+    _id: 56e1aa1cc0edf3065ee3a706 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1aa9fb4dc81205e2e6e68 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1aaa1b4dc81205e2e6e69 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1ab56ca4527435eed476f },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'Dylan',
+    _id: 56e2115a48cd072b616e95d4 },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'Dylan',
+    _id: 56e2116a48cd072b616e95d5 },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'agh',
+    _id: 56e2116f48cd072b616e95d6 },
+  { __v: 0,
+    Comment: '42',
+    Name: 'Dylan',
+    _id: 56e243e2ebb0c93362ee417d },
+  { __v: 0,
+    Comment: 'IT\'S 42',
+    Name: 'Dylan',
+    _id: 56e244f1ebb0c93362ee417e },
+  { __v: 0,
+    Comment: 'Hey It\'s actually centered',
+    Name: 'Dylan',
+    _id: 56e245d6ebb0c93362ee417f },
+  { __v: 0, Comment: '', Name: '', _id: 56e245ffebb0c93362ee4180 },
+  { __v: 0,
+    Comment: 'Now it\'s blue',
+    Name: 'Dylan Rowe',
+    _id: 56e24798ebb0c93362ee4181 },
+  { __v: 0,
+    Comment: 'Are bullets gone?',
+    Name: 'Dylan Rowe',
+    _id: 56e24c56ebb0c93362ee4182 },
+  { __v: 0,
+    Comment: 'I AM SO DONE WITH THIS THING',
+    Name: 'Dylan\'s Ghost',
+    _id: 56e24f425a03918262390bd0 },
+  { __v: 0,
+    Comment: 'Sigh',
+    Name: 'Sigh',
+    _id: 56e253c55a03918262390bd1 } ]
+[0mGET /comment [32m200 [0m11.751 ms - 2086[0m
+[0mGET / [36m304 [0m0.430 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.426 ms - 311[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.556 ms - -[0m
+[0mGET / [36m304 [0m0.334 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.556 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.688 ms - 284[0m
+[0mGET / [36m304 [0m0.313 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.922 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.809 ms - 284[0m
+[0mGET / [36m304 [0m0.346 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.451 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.379 ms - 301[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.982 ms - 301[0m
+[0mGET / [36m304 [0m0.417 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m3.672 ms - 321[0m
+[0mGET /javascripts/comments.js [36m304 [0m2.159 ms - -[0m
+[0mGET / [36m304 [0m0.521 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.367 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.774 ms - 458[0m
+[0mGET / [36m304 [0m0.327 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.974 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.660 ms - 456[0m
+[0mGET / [36m304 [0m0.314 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.556 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.477 ms - -[0m
+[0mGET / [36m304 [0m0.313 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.444 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.487 ms - 458[0m
+[0mGET / [36m304 [0m0.303 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.378 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.183 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.934 ms - 458[0m
+[0mGET / [36m304 [0m1.609 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m1.202 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.573 ms - -[0m
+[0mGET / [32m200 [0m0.651 ms - 842[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.281 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.185 ms - -[0m
+[0mGET / [32m200 [0m0.628 ms - 856[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.317 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.189 ms - -[0m
+[0mGET / [36m304 [0m0.442 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.516 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.572 ms - 464[0m
+[0mGET / [36m304 [0m1.025 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.304 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.683 ms - 494[0m
+[0mGET / [36m304 [0m1.504 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m1.012 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.248 ms - 471[0m
+POST comment route
+{ Name: 'WHOOOOOOOOOOA', Comment: 'SO HIIIIIIIIGH' }
+{ _id: 56e256ed5a03918262390bd2,
+  Comment: 'SO HIIIIIIIIGH',
+  Name: 'WHOOOOOOOOOOA' }
+{ _id: 56e256ed5a03918262390bd2,
+  Comment: 'SO HIIIIIIIIGH',
+  Name: 'WHOOOOOOOOOOA',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m2.633 ms - 2[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'asdf',
+    Name: 'asdf',
+    _id: 56d87b0283fea276098d12b8 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3132723e9ae5dcd2aae },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3162723e9ae5dcd2aaf },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab0 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab1 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab2 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab3 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab4 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3192723e9ae5dcd2ab5 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3192723e9ae5dcd2ab6 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a31a2723e9ae5dcd2ab7 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a31a2723e9ae5dcd2ab8 },
+  { __v: 0,
+    Comment: 'asdf',
+    Name: 'asdf',
+    _id: 56e1aa1cc0edf3065ee3a706 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1aa9fb4dc81205e2e6e68 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1aaa1b4dc81205e2e6e69 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1ab56ca4527435eed476f },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'Dylan',
+    _id: 56e2115a48cd072b616e95d4 },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'Dylan',
+    _id: 56e2116a48cd072b616e95d5 },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'agh',
+    _id: 56e2116f48cd072b616e95d6 },
+  { __v: 0,
+    Comment: '42',
+    Name: 'Dylan',
+    _id: 56e243e2ebb0c93362ee417d },
+  { __v: 0,
+    Comment: 'IT\'S 42',
+    Name: 'Dylan',
+    _id: 56e244f1ebb0c93362ee417e },
+  { __v: 0,
+    Comment: 'Hey It\'s actually centered',
+    Name: 'Dylan',
+    _id: 56e245d6ebb0c93362ee417f },
+  { __v: 0, Comment: '', Name: '', _id: 56e245ffebb0c93362ee4180 },
+  { __v: 0,
+    Comment: 'Now it\'s blue',
+    Name: 'Dylan Rowe',
+    _id: 56e24798ebb0c93362ee4181 },
+  { __v: 0,
+    Comment: 'Are bullets gone?',
+    Name: 'Dylan Rowe',
+    _id: 56e24c56ebb0c93362ee4182 },
+  { __v: 0,
+    Comment: 'I AM SO DONE WITH THIS THING',
+    Name: 'Dylan\'s Ghost',
+    _id: 56e24f425a03918262390bd0 },
+  { __v: 0,
+    Comment: 'Sigh',
+    Name: 'Sigh',
+    _id: 56e253c55a03918262390bd1 },
+  { __v: 0,
+    Comment: 'SO HIIIIIIIIGH',
+    Name: 'WHOOOOOOOOOOA',
+    _id: 56e256ed5a03918262390bd2 } ]
+[0mGET /comment [32m200 [0m9.916 ms - 2179[0m
+[0mGET / [36m304 [0m0.371 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.407 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.289 ms - -[0m
+[0mGET / [32m200 [0m0.487 ms - 821[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.719 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.077 ms - -[0m
+POST comment route
+{ Name: 'TREX', Comment: 'GRAAAAAAAAAAAAAAAH' }
+{ _id: 56e258465a03918262390bd3,
+  Comment: 'GRAAAAAAAAAAAAAAAH',
+  Name: 'TREX' }
+{ _id: 56e258465a03918262390bd3,
+  Comment: 'GRAAAAAAAAAAAAAAAH',
+  Name: 'TREX',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m3.997 ms - 2[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'asdf',
+    Name: 'asdf',
+    _id: 56d87b0283fea276098d12b8 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3132723e9ae5dcd2aae },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3162723e9ae5dcd2aaf },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab0 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab1 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab2 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab3 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3172723e9ae5dcd2ab4 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3192723e9ae5dcd2ab5 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a3192723e9ae5dcd2ab6 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a31a2723e9ae5dcd2ab7 },
+  { __v: 0,
+    Comment: 'HIII',
+    Name: 'Micket',
+    _id: 56e1a31a2723e9ae5dcd2ab8 },
+  { __v: 0,
+    Comment: 'asdf',
+    Name: 'asdf',
+    _id: 56e1aa1cc0edf3065ee3a706 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1aa9fb4dc81205e2e6e68 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1aaa1b4dc81205e2e6e69 },
+  { __v: 0, Comment: '', Name: '', _id: 56e1ab56ca4527435eed476f },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'Dylan',
+    _id: 56e2115a48cd072b616e95d4 },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'Dylan',
+    _id: 56e2116a48cd072b616e95d5 },
+  { __v: 0,
+    Comment: 'Hello',
+    Name: 'agh',
+    _id: 56e2116f48cd072b616e95d6 },
+  { __v: 0,
+    Comment: '42',
+    Name: 'Dylan',
+    _id: 56e243e2ebb0c93362ee417d },
+  { __v: 0,
+    Comment: 'IT\'S 42',
+    Name: 'Dylan',
+    _id: 56e244f1ebb0c93362ee417e },
+  { __v: 0,
+    Comment: 'Hey It\'s actually centered',
+    Name: 'Dylan',
+    _id: 56e245d6ebb0c93362ee417f },
+  { __v: 0, Comment: '', Name: '', _id: 56e245ffebb0c93362ee4180 },
+  { __v: 0,
+    Comment: 'Now it\'s blue',
+    Name: 'Dylan Rowe',
+    _id: 56e24798ebb0c93362ee4181 },
+  { __v: 0,
+    Comment: 'Are bullets gone?',
+    Name: 'Dylan Rowe',
+    _id: 56e24c56ebb0c93362ee4182 },
+  { __v: 0,
+    Comment: 'I AM SO DONE WITH THIS THING',
+    Name: 'Dylan\'s Ghost',
+    _id: 56e24f425a03918262390bd0 },
+  { __v: 0,
+    Comment: 'Sigh',
+    Name: 'Sigh',
+    _id: 56e253c55a03918262390bd1 },
+  { __v: 0,
+    Comment: 'SO HIIIIIIIIGH',
+    Name: 'WHOOOOOOOOOOA',
+    _id: 56e256ed5a03918262390bd2 },
+  { __v: 0,
+    Comment: 'GRAAAAAAAAAAAAAAAH',
+    Name: 'TREX',
+    _id: 56e258465a03918262390bd3 } ]
+[0mGET /comment [32m200 [0m12.918 ms - 2267[0m
